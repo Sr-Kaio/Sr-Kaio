@@ -1,7 +1,7 @@
 <h1>Hi, I'm Kaio. 👋</h1>
 
 I'm from **Brazil**,
-and i'm a Teenager studying and practicing programming as an hobby and other stuff.
+and i'm a Teenager studying and practicing programming as an hobby.
 
 <h2>🌐 | Social Media</h2>
 
