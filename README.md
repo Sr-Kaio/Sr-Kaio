@@ -61,18 +61,6 @@ and i'm a Teenager studying and practicing programming as an hobby.
 </div>
 
 <h2>📽️ | Featured Youtube Video (PT-BR | EN-US)</h2>
-<a href="https://www.youtube.com/watch?v=sphdd5FV14w">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sphdd5FV14w&title=Eu+fiz+um+jogo+muito+BIZARRO+de+terror+para+meu+amigo+|+Devlog+2">
-    <img src="https://ytcards.demolab.com/?id=sphdd5FV14w&title=Eu+fiz+um+jogo+muito+BIZARRO+de+terror+para+meu+amigo+|+Devlog+2" alt="How To Self-Host GitHub Readme Streak Stats on Vercel" title="Eu fiz um jogo muito BIZARRO de terror para meu amigo | Devlog 2">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=wsh6Xi-GeFI">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wsh6Xi-GeFI&title=Sr+Kaio+-+Zer0's+Theme+(Kaio's+Dream+2+OST)">
-    <img src="https://ytcards.demolab.com/?id=wsh6Xi-GeFI&title=Sr+Kaio+-+Zer0's+Theme+(Kaio's+Dream+2+OST)" alt="How To Self-Host GitHub Readme Streak Stats on Vercel" title=" Sr Kaio - Zer0's Theme (Kaio's Dream 2 OST)">
-  </picture>
-</a>
 <a href="https://www.youtube.com/watch?v=TaFW-7SrMsk">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TaFW-7SrMsk&title=Some+Scrapped+Animations">
