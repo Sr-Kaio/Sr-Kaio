@@ -74,3 +74,5 @@ and i'm a Teenager studying and practicing programming as an hobby.
 </div>
 
 ###
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q517OAN7)
